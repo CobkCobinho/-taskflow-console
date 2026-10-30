@@ -17,7 +17,7 @@ Com o **.NET SDK 10** e o Git instalados:
 ```sh
 git clone https://github.com/CobkCobinho/-taskflow-console.git taskflow
 cd taskflow
-dotnet run --project taskflow-console/TaskFlow.Console
+dotnet run --project TaskFlow.Console
 ```
 
 ## Testes
@@ -25,7 +25,7 @@ dotnet run --project taskflow-console/TaskFlow.Console
 A partir da raiz do repositório clonado:
 
 ```sh
-dotnet test taskflow-console/TaskFlow.Tests/TaskFlow.Tests.csproj
+dotnet test TaskFlow.Tests/TaskFlow.Tests.csproj
 ```
 
 Veja a [documentação completa](taskflow-console/README.md) para consultar a estrutura, o menu e os comandos de compilação.
