@@ -19,8 +19,8 @@ taskflow-console/
 ## Clonar o repositório
 
 ```bash
-git clone https://github.com/<seu-usuario>/taskflow-console.git
-cd taskflow-console
+git clone https://github.com/CobkCobinho/-taskflow-console.git taskflow
+cd taskflow/taskflow-console
 ```
 
 ## Compilar
